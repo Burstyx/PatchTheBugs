@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ec38da0837258a49ab9a7168d5f6d30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - routeurStage1: {fileID: 21300000, guid: 3d3eb251273257744b6090f5ca170f88, type: 3}
+  - routeurStage2: {fileID: 21300000, guid: 9544f92232447674eacbd8c72e7f23c2, type: 3}
+  - routeurStage3: {fileID: 21300000, guid: 58ce9f1d9cce18744bf42e11322fd145, type: 3}
+  - routeurStage4: {fileID: 21300000, guid: b112cec4d2b0bb948b87a1911c826a7f, type: 3}
+  - bug: {fileID: 3813064557343963415, guid: ae6ea27e6476d8347bfd13c2b5537cba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

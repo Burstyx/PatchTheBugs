@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4937ce62b9beb554c8502e654a2a4c0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normal: {fileID: 11400000, guid: 9ea28d76e5603184db9bc971159e48ec, type: 2}
+  - bugPatched: {fileID: 11400000, guid: b6feca24f2196f540af25a6f1e24ddde, type: 2}
+  - audioGetPatch: {fileID: 8300000, guid: 8fb76942b5268fd4ebc33d6ee5429ec1, type: 3}
+  - getPatchClip: {fileID: 7400000, guid: 78b92cafc62398743b97113739f676d6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
